@@ -12,9 +12,9 @@ echo -e "$k╠╩╗║ ║║║║╠╩╗║╣ ╠╦╝"
 echo -e "$k╚═╝╚═╝╩ ╩╚═╝╚═╝╩╚═"
 echo " "
 echo -e "           $r CODE BY =$z MARUF"
-echo -e "           $r EDIT BY =$g _A.R.O_"
-echo -e "           $r INSTA =$k an.onymous0"
-echo -e "           $r BLOG =$z arocoder.blogspot.com"
+echo -e "           $r EDIT BY =$g MR.F"
+echo -e "           $r INSTA =$k __mr.__f__"
+
 echo " "
 echo -e -n "$r ENTER YOUR MESSAGE =>$g "
 read a
