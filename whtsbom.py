@@ -18,11 +18,11 @@ print ("██╔══██╗██║   ██║██║╚██╔╝█
 print ("██████╔╝╚██████╔╝██║ ╚═╝ ██║██████╔╝███████╗██║  ██║")
 print ("╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝"+ r)
 print ()
-print (f"              coded_by={r} _{k}A{r}.{k}R{r}.{k}O{r}_") 
+print (f"              coded_by={r} _{k}M{k}R{r}.{k}F{r}_") 
 print () 
-print (f"              INSTA ={k} an.onymous0")       
+print (f"              INSTA ={k} __mr.__f__")       
 print ()
-print (f"              {r}BLOG ={k} arocoder.blogspot.com")
+
 print ()
 print ()
 
